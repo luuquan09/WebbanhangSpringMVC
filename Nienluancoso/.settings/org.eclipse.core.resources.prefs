@@ -1,8 +1,0 @@
-eclipse.preferences.version=1
-encoding//WebContent/WEB-INF/VIEW/Home.jsp=UTF-8
-encoding//src/CONTROLLER/GetthingController.java=UTF-8
-encoding//src/CONTROLLER/ImportExcellist.java=UTF-8
-encoding//src/DAO/ExportExcel.java=UTF-8
-encoding//src/DAO/Readlistimport.java=UTF-8
-encoding//src/DAO/Solvedgreedy.java=UTF-8
-encoding//src/DAO/SolvedgreedyConsole.java=UTF-8
