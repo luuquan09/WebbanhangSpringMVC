@@ -13,7 +13,7 @@ public class HomeController {
 	      ModelAndView mav = new ModelAndView("client/home"); 
 	      return mav;
 	 }
-	  
+	  //Tao chỉ vao đay để test thôi
 	   @RequestMapping(value = "/springmvc", method = RequestMethod.GET)
 	   public ModelAndView springMVCPage() {
 	      ModelAndView mav = new ModelAndView("springmvc");
